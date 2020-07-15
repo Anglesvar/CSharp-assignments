@@ -1,0 +1,13 @@
+C:\Users\ACCHAN1\source\repos\day3\day3\bin\Debug\netcoreapp3.1\day3.exe
+C:\Users\ACCHAN1\source\repos\day3\day3\bin\Debug\netcoreapp3.1\day3.deps.json
+C:\Users\ACCHAN1\source\repos\day3\day3\bin\Debug\netcoreapp3.1\day3.runtimeconfig.json
+C:\Users\ACCHAN1\source\repos\day3\day3\bin\Debug\netcoreapp3.1\day3.runtimeconfig.dev.json
+C:\Users\ACCHAN1\source\repos\day3\day3\bin\Debug\netcoreapp3.1\day3.dll
+C:\Users\ACCHAN1\source\repos\day3\day3\bin\Debug\netcoreapp3.1\day3.pdb
+C:\Users\ACCHAN1\source\repos\day3\day3\obj\Debug\netcoreapp3.1\day3.csprojAssemblyReference.cache
+C:\Users\ACCHAN1\source\repos\day3\day3\obj\Debug\netcoreapp3.1\day3.AssemblyInfoInputs.cache
+C:\Users\ACCHAN1\source\repos\day3\day3\obj\Debug\netcoreapp3.1\day3.AssemblyInfo.cs
+C:\Users\ACCHAN1\source\repos\day3\day3\obj\Debug\netcoreapp3.1\day3.csproj.CoreCompileInputs.cache
+C:\Users\ACCHAN1\source\repos\day3\day3\obj\Debug\netcoreapp3.1\day3.dll
+C:\Users\ACCHAN1\source\repos\day3\day3\obj\Debug\netcoreapp3.1\day3.pdb
+C:\Users\ACCHAN1\source\repos\day3\day3\obj\Debug\netcoreapp3.1\day3.genruntimeconfig.cache
